@@ -1,0 +1,39 @@
+body {
+font-family: 'Dubai', sans-serif;
+width: 1440px;
+height: 2px;
+background-color: #FDFFED;
+
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 20;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+
+  color: #000000;
+  text-align: center;
+  padding: 50px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #EDF9FF;
+}
+
+button {
+  background-color: #ffffaa;
+  height: 5%;
+}
